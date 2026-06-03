@@ -19,8 +19,8 @@ Sou estudante finalista de **Ciência da Computação**, restando apenas uma dis
 Aqui estão as tecnologias que utilizo nos meus projetos e estudos diários:
 
 <p align="left">
-  <img src="C:\Users\Lucas\OneDrive\Desktop\read.me\img\Python.jpg" width="50" height="50" alt="Python" />
-  <img src="C:\Users\Lucas\OneDrive\Desktop\read.me\img\Git.png" width="50" height="50" alt="Git" />
-  <img src="C:\Users\Lucas\OneDrive\Desktop\read.me\img\github.png" width="50" height="50" alt="GitHub" />
-  <img src="C:\Users\Lucas\OneDrive\Desktop\read.me\img\linux.jpg" width="50" height="50" alt="Linux" />
+  <img src="img/Python.jpg" width="50" height="50" alt="Python" valign="middle" /> <b>Python</b> <br /><br />
+  <img src="img/Git.png" width="50" height="50" alt="Git" valign="middle" /> <b>Git</b> <br /><br />
+  <img src="img/github.png" width="50" height="50" alt="GitHub" valign="middle" /> <b>GitHub</b> <br /><br />
+  <img src="img/linux.jpg" width="50" height="50" alt="Linux" valign="middle" /> <b>Linux</b>
 </p>
